@@ -1,0 +1,74 @@
+// Time Line
+.tweets {
+
+  display: inline-block;
+  width: @tweet-width;
+
+  background-color: @background-light;
+  border-color: @border-color;
+  border-radius: @border-radius;
+  border-style: solid;
+  border-width: @border-width;
+
+  h1 {
+    padding: @padding;
+    border-bottom: @border-width solid @border-color;
+  }
+
+  .tweet {
+    padding: @padding;
+    position: relative;
+    border-bottom: @border-width solid @border-color;
+
+    .profile-picture {
+      position: absolute;
+
+      img {
+        width: @tweet-profile-picture-size;
+        height: @tweet-profile-picture-size;
+      }
+    }
+
+    .time-stamp {
+      position: absolute;
+      right: @padding;
+
+      i {
+        font-style: normal;
+        color: @border-color;
+      }
+    }
+
+    header {
+      padding-left: @tweet-profile-picture-size + @padding;
+
+      i {
+        font-style: normal;
+        color: @border-color;
+      }
+    }
+
+
+    .body {
+      padding-left: @tweet-profile-picture-size + @padding;
+    }
+
+
+    footer {
+      padding-left: @tweet-profile-picture-size + @padding;
+
+      button {
+        font-size: 1rem;
+        color: @border-color;
+        background: none;
+        border: @border-width solid @background-light;
+
+        &:hover {
+          border: @border-width solid @border-color;
+          color: darken(@border-color, 30%);
+        }
+      }
+    }
+  }
+
+}

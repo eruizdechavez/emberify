@@ -1,0 +1,2866 @@
+[{
+  "created_at": "Wed Jan 21 01:51:18 +0000 2015",
+  "id": 557717036517052400,
+  "id_str": "557717036517052417",
+  "text": "If you like magical realism check out @fictionclemens\" newest release from @AsymPress—Shapes the Sunlight. Takes http://t.co/qv1I7y0UyI",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 31031011,
+    "id_str": "31031011",
+    "name": "Ryan Nicodemus",
+    "screen_name": "RyanNicodemus",
+    "location": "Missoula, Montana",
+    "profile_location": null,
+    "description": "Mentor. Half of @TheMinimalists. Author, @ETRBook. Producer, @MinimalismFilm. Cofounder, @AsymPress. Not a rapper.",
+    "url": "http://t.co/AyDYUl5Fv2",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "http://t.co/AyDYUl5Fv2",
+          "expanded_url": "http://theminimalists.com",
+          "display_url": "theminimalists.com",
+          "indices": [0, 22]
+        }]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 11316,
+    "friends_count": 98,
+    "listed_count": 357,
+    "created_at": "Tue Apr 14 02:17:43 +0000 2009",
+    "favourites_count": 1797,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4152,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000615690046/9c92f4d7744e5b66829e2b557590e10e_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000615690046/9c92f4d7744e5b66829e2b557590e10e_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/31031011/1348233650",
+    "profile_link_color": "2B62ED",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "fictionclemens",
+      "name": "Josh Wagner",
+      "id": 18225153,
+      "id_str": "18225153",
+      "indices": [38, 53]
+    }, {
+      "screen_name": "AsymPress",
+      "name": "Asymmetrical Press",
+      "id": 567690895,
+      "id_str": "567690895",
+      "indices": [75, 85]
+    }],
+    "urls": [{
+      "url": "http://t.co/qv1I7y0UyI",
+      "expanded_url": "http://asymmetrical.co/published-today-shapes-the-sunlight-takes-by-josh-wagner/",
+      "display_url": "asymmetrical.co/published-toda…",
+      "indices": [113, 135]
+    }]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}, {
+  "created_at": "Wed Jan 21 01:47:46 +0000 2015",
+  "id": 557716150885560300,
+  "id_str": "557716150885560321",
+  "text": "RT @k88hudson: @ceejbot \n\nyack shavers gonna shave shave shave shave shave,\nshave it off, shave it off",
+  "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 26330898,
+    "id_str": "26330898",
+    "name": "Raquel Vélez",
+    "screen_name": "rockbot",
+    "location": "Bay Area, CA",
+    "profile_location": null,
+    "description": "Building a Better Internet™",
+    "url": "http://t.co/oqkVcYlwPm",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "http://t.co/oqkVcYlwPm",
+          "expanded_url": "http://rckbt.me",
+          "display_url": "rckbt.me",
+          "indices": [0, 22]
+        }]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 6038,
+    "friends_count": 316,
+    "listed_count": 362,
+    "created_at": "Tue Mar 24 21:38:23 +0000 2009",
+    "favourites_count": 5287,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 14109,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3003501029/95174deb90dd9450c1f7815e0d364ea0_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3003501029/95174deb90dd9450c1f7815e0d364ea0_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/26330898/1385156937",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jan 21 01:47:35 +0000 2015",
+    "id": 557716102290366460,
+    "id_str": "557716102290366464",
+    "text": "@ceejbot \n\nyack shavers gonna shave shave shave shave shave,\nshave it off, shave it off",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 557714649903530000,
+    "in_reply_to_status_id_str": "557714649903529985",
+    "in_reply_to_user_id": 78663,
+    "in_reply_to_user_id_str": "78663",
+    "in_reply_to_screen_name": "ceejbot",
+    "user": {
+      "id": 46156776,
+      "id_str": "46156776",
+      "name": "Kate Hudson",
+      "screen_name": "k88hudson",
+      "location": "Toronto",
+      "profile_location": null,
+      "description": "Web engineer at the Mozilla Foundation  http://t.co/NhQFISa1Cb. 6 ft awesome. Once fused a kettle to a glass top stove.",
+      "url": "http://t.co/vRvnwIRT0T",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http://t.co/vRvnwIRT0T",
+            "expanded_url": "http://blog.ibangspacebar.com",
+            "display_url": "blog.ibangspacebar.com",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": [{
+            "url": "http://t.co/NhQFISa1Cb",
+            "expanded_url": "http://github.com/k88hudson",
+            "display_url": "github.com/k88hudson",
+            "indices": [40, 62]
+          }]
+        }
+      },
+      "protected": false,
+      "followers_count": 1191,
+      "friends_count": 509,
+      "listed_count": 59,
+      "created_at": "Wed Jun 10 16:43:06 +0000 2009",
+      "favourites_count": 220,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1726,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/529313549227524097/07GmI4zw_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/529313549227524097/07GmI4zw_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/46156776/1409974280",
+      "profile_link_color": "4BC48D",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "ceejbot",
+        "name": "C J Silverio",
+        "id": 78663,
+        "id_str": "78663",
+        "indices": [0, 8]
+      }],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "retweet_count": 1,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "k88hudson",
+      "name": "Kate Hudson",
+      "id": 46156776,
+      "id_str": "46156776",
+      "indices": [3, 13]
+    }, {
+      "screen_name": "ceejbot",
+      "name": "C J Silverio",
+      "id": 78663,
+      "id_str": "78663",
+      "indices": [15, 23]
+    }],
+    "urls": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}, {
+  "created_at": "Wed Jan 21 01:46:12 +0000 2015",
+  "id": 557715754662236160,
+  "id_str": "557715754662236164",
+  "text": "RT @ceejbot: It’s Yak Poetry and Song Hour.\n\nSend in the yaks.",
+  "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 26330898,
+    "id_str": "26330898",
+    "name": "Raquel Vélez",
+    "screen_name": "rockbot",
+    "location": "Bay Area, CA",
+    "profile_location": null,
+    "description": "Building a Better Internet™",
+    "url": "http://t.co/oqkVcYlwPm",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "http://t.co/oqkVcYlwPm",
+          "expanded_url": "http://rckbt.me",
+          "display_url": "rckbt.me",
+          "indices": [0, 22]
+        }]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 6038,
+    "friends_count": 316,
+    "listed_count": 362,
+    "created_at": "Tue Mar 24 21:38:23 +0000 2009",
+    "favourites_count": 5287,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 14109,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3003501029/95174deb90dd9450c1f7815e0d364ea0_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3003501029/95174deb90dd9450c1f7815e0d364ea0_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/26330898/1385156937",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jan 21 01:41:49 +0000 2015",
+    "id": 557714649903530000,
+    "id_str": "557714649903529985",
+    "text": "It’s Yak Poetry and Song Hour.\n\nSend in the yaks.",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 78663,
+      "id_str": "78663",
+      "name": "C J Silverio",
+      "screen_name": "ceejbot",
+      "location": "Menlo Park, CA",
+      "profile_location": null,
+      "description": "Ceej aka ceejbot. Cats, climbing, weightlifting, and node.js, not necessarily in that order.",
+      "url": "http://t.co/79o1zRVYJf",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http://t.co/79o1zRVYJf",
+            "expanded_url": "http://ceejbot.tumblr.com/",
+            "display_url": "ceejbot.tumblr.com",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1738,
+      "friends_count": 509,
+      "listed_count": 122,
+      "created_at": "Mon Dec 18 23:22:16 +0000 2006",
+      "favourites_count": 4511,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 24129,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "CDB380",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/149122382/x59fbc11347f5afe2a4e736cd31efed2.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/149122382/x59fbc11347f5afe2a4e736cd31efed2.jpg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/915839176/n763189021_6663_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/915839176/n763189021_6663_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/78663/1400545557",
+      "profile_link_color": "472C04",
+      "profile_sidebar_border_color": "036564",
+      "profile_sidebar_fill_color": "E8DDCB",
+      "profile_text_color": "031634",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "ab2f2fac83aa388d",
+      "url": "https://api.twitter.com/1.1/geo/id/ab2f2fac83aa388d.json",
+      "place_type": "city",
+      "name": "Oakland",
+      "full_name": "Oakland, CA",
+      "country_code": "US",
+      "country": "United States",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-122.34266, 37.699279],
+            [-122.114711, 37.699279],
+            [-122.114711, 37.8847092],
+            [-122.34266, 37.8847092]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "retweet_count": 1,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "ceejbot",
+      "name": "C J Silverio",
+      "id": 78663,
+      "id_str": "78663",
+      "indices": [3, 11]
+    }],
+    "urls": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}, {
+  "created_at": "Wed Jan 21 01:46:09 +0000 2015",
+  "id": 557715741462781950,
+  "id_str": "557715741462781953",
+  "text": "RT @llkats: @rockbot I got 99 problems\n\nbut I have to shave this yak first",
+  "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 26330898,
+    "id_str": "26330898",
+    "name": "Raquel Vélez",
+    "screen_name": "rockbot",
+    "location": "Bay Area, CA",
+    "profile_location": null,
+    "description": "Building a Better Internet™",
+    "url": "http://t.co/oqkVcYlwPm",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "http://t.co/oqkVcYlwPm",
+          "expanded_url": "http://rckbt.me",
+          "display_url": "rckbt.me",
+          "indices": [0, 22]
+        }]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 6038,
+    "friends_count": 316,
+    "listed_count": 362,
+    "created_at": "Tue Mar 24 21:38:23 +0000 2009",
+    "favourites_count": 5287,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 14109,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3003501029/95174deb90dd9450c1f7815e0d364ea0_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3003501029/95174deb90dd9450c1f7815e0d364ea0_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/26330898/1385156937",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jan 21 01:45:25 +0000 2015",
+    "id": 557715559706787840,
+    "id_str": "557715559706787841",
+    "text": "@rockbot I got 99 problems\n\nbut I have to shave this yak first",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 557714497696464900,
+    "in_reply_to_status_id_str": "557714497696464900",
+    "in_reply_to_user_id": 26330898,
+    "in_reply_to_user_id_str": "26330898",
+    "in_reply_to_screen_name": "rockbot",
+    "user": {
+      "id": 22697165,
+      "id_str": "22697165",
+      "name": "once and future lyds",
+      "screen_name": "llkats",
+      "location": "SF Bae Area",
+      "profile_location": null,
+      "description": "hello yes this is Lydia; web dev, feminism, books, JS, yurts, Zen. all things front-end for craigslist. ☮",
+      "url": "http://t.co/BXSKwmqxYB",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http://t.co/BXSKwmqxYB",
+            "expanded_url": "http://www.llkats.com",
+            "display_url": "llkats.com",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1021,
+      "friends_count": 520,
+      "listed_count": 64,
+      "created_at": "Tue Mar 03 23:10:22 +0000 2009",
+      "favourites_count": 3582,
+      "utc_offset": -21600,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 9600,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/505196876639903744/fN5GuL_O.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/505196876639903744/fN5GuL_O.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/532277180646948864/WkkHNqDK_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/532277180646948864/WkkHNqDK_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/22697165/1413257357",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "rockbot",
+        "name": "Raquel Vélez",
+        "id": 26330898,
+        "id_str": "26330898",
+        "indices": [0, 8]
+      }],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "retweet_count": 1,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "llkats",
+      "name": "once and future lyds",
+      "id": 22697165,
+      "id_str": "22697165",
+      "indices": [3, 10]
+    }, {
+      "screen_name": "rockbot",
+      "name": "Raquel Vélez",
+      "id": 26330898,
+      "id_str": "26330898",
+      "indices": [12, 20]
+    }],
+    "urls": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}, {
+  "created_at": "Wed Jan 21 01:43:15 +0000 2015",
+  "id": 557715013256110100,
+  "id_str": "557715013256110081",
+  "text": "La increíble historia de amistad entre un cachorro y un pequeño gato nos da una lección sobre la aceptación  http://t.co/tPce47uvKe",
+  "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 12741082,
+    "id_str": "12741082",
+    "name": "Yesi Days",
+    "screen_name": "silvercorp",
+    "location": "Mexico",
+    "profile_location": null,
+    "description": "Programadora Web, amiga de los animales, amante del deporte y Padawan de la vida",
+    "url": "http://t.co/60JUaM5HFG",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "http://t.co/60JUaM5HFG",
+          "expanded_url": "http://silvercorp.com.mx",
+          "display_url": "silvercorp.com.mx",
+          "indices": [0, 22]
+        }]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 2784,
+    "friends_count": 2267,
+    "listed_count": 113,
+    "created_at": "Sun Jan 27 05:32:29 +0000 2008",
+    "favourites_count": 2074,
+    "utc_offset": -21600,
+    "time_zone": "Mexico City",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 43657,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "636363",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000157559928/fUo3Zxj9.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000157559928/fUo3Zxj9.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/534215512222617600/GTZgYoA8_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/534215512222617600/GTZgYoA8_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/12741082/1402264821",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [{
+      "url": "http://t.co/tPce47uvKe",
+      "expanded_url": "http://buff.ly/15sWapO",
+      "display_url": "buff.ly/15sWapO",
+      "indices": [109, 131]
+    }]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "es"
+}, {
+  "created_at": "Wed Jan 21 01:41:12 +0000 2015",
+  "id": 557714497696464900,
+  "id_str": "557714497696464900",
+  "text": "*To the tune of Fiddler on the Roof’s Matchmaker*\n\nYak shaver, yak shaver, shave me a yak!\n\nFind me a yak, shave it real fast!",
+  "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 26330898,
+    "id_str": "26330898",
+    "name": "Raquel Vélez",
+    "screen_name": "rockbot",
+    "location": "Bay Area, CA",
+    "profile_location": null,
+    "description": "Building a Better Internet™",
+    "url": "http://t.co/oqkVcYlwPm",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "http://t.co/oqkVcYlwPm",
+          "expanded_url": "http://rckbt.me",
+          "display_url": "rckbt.me",
+          "indices": [0, 22]
+        }]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 6038,
+    "friends_count": 316,
+    "listed_count": 362,
+    "created_at": "Tue Mar 24 21:38:23 +0000 2009",
+    "favourites_count": 5287,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 14109,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3003501029/95174deb90dd9450c1f7815e0d364ea0_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3003501029/95174deb90dd9450c1f7815e0d364ea0_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/26330898/1385156937",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 3,
+  "favorite_count": 6,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}, {
+  "created_at": "Wed Jan 21 01:11:35 +0000 2015",
+  "id": 557707045408100350,
+  "id_str": "557707045408100353",
+  "text": "RT @hubilabveracruz: Hoy nuestros iLabbers están dando el pitch a Griselda Gómez, Directora del Programa Iniciativas Internacionales... htt…",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 12741082,
+    "id_str": "12741082",
+    "name": "Yesi Days",
+    "screen_name": "silvercorp",
+    "location": "Mexico",
+    "profile_location": null,
+    "description": "Programadora Web, amiga de los animales, amante del deporte y Padawan de la vida",
+    "url": "http://t.co/60JUaM5HFG",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "http://t.co/60JUaM5HFG",
+          "expanded_url": "http://silvercorp.com.mx",
+          "display_url": "silvercorp.com.mx",
+          "indices": [0, 22]
+        }]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 2784,
+    "friends_count": 2267,
+    "listed_count": 113,
+    "created_at": "Sun Jan 27 05:32:29 +0000 2008",
+    "favourites_count": 2074,
+    "utc_offset": -21600,
+    "time_zone": "Mexico City",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 43657,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "636363",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000157559928/fUo3Zxj9.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000157559928/fUo3Zxj9.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/534215512222617600/GTZgYoA8_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/534215512222617600/GTZgYoA8_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/12741082/1402264821",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Jan 20 17:16:28 +0000 2015",
+    "id": 557587476294803460,
+    "id_str": "557587476294803457",
+    "text": "Hoy nuestros iLabbers están dando el pitch a Griselda Gómez, Directora del Programa Iniciativas Internacionales... http://t.co/jEXc8FuAPx",
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2173025142,
+      "id_str": "2173025142",
+      "name": "HUB iLab Veracruz",
+      "screen_name": "hubilabveracruz",
+      "location": "",
+      "profile_location": null,
+      "description": "",
+      "url": "http://t.co/vuQeIOZ381",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http://t.co/vuQeIOZ381",
+            "expanded_url": "http://www.ilab.net",
+            "display_url": "ilab.net",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1288,
+      "friends_count": 1889,
+      "listed_count": 6,
+      "created_at": "Mon Nov 04 00:17:26 +0000 2013",
+      "favourites_count": 128,
+      "utc_offset": -21600,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2054,
+      "lang": "es",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000172306802/reYSGdyc.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000172306802/reYSGdyc.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/425805563889324032/TsjU6a3W_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/425805563889324032/TsjU6a3W_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2173025142/1421680701",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [{
+        "url": "http://t.co/jEXc8FuAPx",
+        "expanded_url": "http://fb.me/6oQznqQSF",
+        "display_url": "fb.me/6oQznqQSF",
+        "indices": [115, 137]
+      }]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+  },
+  "retweet_count": 1,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "hubilabveracruz",
+      "name": "HUB iLab Veracruz",
+      "id": 2173025142,
+      "id_str": "2173025142",
+      "indices": [3, 19]
+    }],
+    "urls": [{
+      "url": "http://t.co/jEXc8FuAPx",
+      "expanded_url": "http://fb.me/6oQznqQSF",
+      "display_url": "fb.me/6oQznqQSF",
+      "indices": [139, 140]
+    }]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "es"
+}, {
+  "created_at": "Wed Jan 21 01:05:11 +0000 2015",
+  "id": 557705434644373500,
+  "id_str": "557705434644373504",
+  "text": "6to5 + ESNext: http://t.co/LfhNMVhsgD #js #JavaScript",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14148308,
+    "id_str": "14148308",
+    "name": "Eric Elliott",
+    "screen_name": "_ericelliott",
+    "location": "San Francisco, CA",
+    "profile_location": null,
+    "description": "Compassionate entrepreneur on a mission to end homelessness. #jshomes\n\nJavascript, tech education, electronic music, photography, film, viral apps.",
+    "url": "http://t.co/CZHaIyCy3L",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "http://t.co/CZHaIyCy3L",
+          "expanded_url": "http://bit.ly/jshomes",
+          "display_url": "bit.ly/jshomes",
+          "indices": [0, 22]
+        }]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 4741,
+    "friends_count": 4675,
+    "listed_count": 272,
+    "created_at": "Fri Mar 14 18:06:53 +0000 2008",
+    "favourites_count": 7396,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 15075,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/464310668984725504/ym-M-SNv_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/464310668984725504/ym-M-SNv_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/14148308/1399535245",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "favorite_count": 2,
+  "entities": {
+    "hashtags": [{
+      "text": "js",
+      "indices": [38, 41]
+    }, {
+      "text": "JavaScript",
+      "indices": [42, 53]
+    }],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [{
+      "url": "http://t.co/LfhNMVhsgD",
+      "expanded_url": "http://6to5.org/blog/2015/01/12/6to5-esnext/",
+      "display_url": "6to5.org/blog/2015/01/1…",
+      "indices": [15, 37]
+    }]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}, {
+  "created_at": "Wed Jan 21 00:59:27 +0000 2015",
+  "id": 557703988746149900,
+  "id_str": "557703988746149889",
+  "text": "this is our happy place #CR",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 12741082,
+    "id_str": "12741082",
+    "name": "Yesi Days",
+    "screen_name": "silvercorp",
+    "location": "Mexico",
+    "profile_location": null,
+    "description": "Programadora Web, amiga de los animales, amante del deporte y Padawan de la vida",
+    "url": "http://t.co/60JUaM5HFG",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "http://t.co/60JUaM5HFG",
+          "expanded_url": "http://silvercorp.com.mx",
+          "display_url": "silvercorp.com.mx",
+          "indices": [0, 22]
+        }]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 2784,
+    "friends_count": 2267,
+    "listed_count": 113,
+    "created_at": "Sun Jan 27 05:32:29 +0000 2008",
+    "favourites_count": 2074,
+    "utc_offset": -21600,
+    "time_zone": "Mexico City",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 43657,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "636363",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000157559928/fUo3Zxj9.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000157559928/fUo3Zxj9.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/534215512222617600/GTZgYoA8_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/534215512222617600/GTZgYoA8_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/12741082/1402264821",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [{
+      "text": "CR",
+      "indices": [24, 27]
+    }],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}, {
+  "created_at": "Wed Jan 21 00:57:49 +0000 2015",
+  "id": 557703577855328260,
+  "id_str": "557703577855328256",
+  "text": "RT @Oficialmorris: La güera Manuel Velasco se vuelve TT por cachetear ayudante.\nQue pasará cuando se cachetié a la Anahí o viceversa  \nGobe…",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 12741082,
+    "id_str": "12741082",
+    "name": "Yesi Days",
+    "screen_name": "silvercorp",
+    "location": "Mexico",
+    "profile_location": null,
+    "description": "Programadora Web, amiga de los animales, amante del deporte y Padawan de la vida",
+    "url": "http://t.co/60JUaM5HFG",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "http://t.co/60JUaM5HFG",
+          "expanded_url": "http://silvercorp.com.mx",
+          "display_url": "silvercorp.com.mx",
+          "indices": [0, 22]
+        }]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 2784,
+    "friends_count": 2267,
+    "listed_count": 113,
+    "created_at": "Sun Jan 27 05:32:29 +0000 2008",
+    "favourites_count": 2074,
+    "utc_offset": -21600,
+    "time_zone": "Mexico City",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 43657,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "636363",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000157559928/fUo3Zxj9.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000157559928/fUo3Zxj9.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/534215512222617600/GTZgYoA8_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/534215512222617600/GTZgYoA8_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/12741082/1402264821",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Jan 20 19:18:55 +0000 2015",
+    "id": 557618293251788800,
+    "id_str": "557618293251788800",
+    "text": "La güera Manuel Velasco se vuelve TT por cachetear ayudante.\nQue pasará cuando se cachetié a la Anahí o viceversa  \nGobernador de Chiapas",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1489951178,
+      "id_str": "1489951178",
+      "name": "El Candigato Morris ",
+      "screen_name": "Oficialmorris",
+      "location": "Xalapa, Ver; ",
+      "profile_location": null,
+      "description": "Ganador de 2 Victory Awards: Mejor campaña medios On Line e innovador político del año. Se prepara para 2015. https://t.co/FBSPuXG9e8",
+      "url": "http://t.co/3GWABUreUN",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http://t.co/3GWABUreUN",
+            "expanded_url": "http://www.elcandigato.com/primera-edicion-del-arenero-dorado/",
+            "display_url": "elcandigato.com/primera-edicio…",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": [{
+            "url": "https://t.co/FBSPuXG9e8",
+            "expanded_url": "https://www.facebook.com/elcandigatomorris?ref=hl",
+            "display_url": "facebook.com/elcandigatomor…",
+            "indices": [110, 133]
+          }]
+        }
+      },
+      "protected": false,
+      "followers_count": 13768,
+      "friends_count": 266,
+      "listed_count": 53,
+      "created_at": "Fri Jun 07 09:17:46 +0000 2013",
+      "favourites_count": 2956,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 8040,
+      "lang": "es",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000022624499/82c81a06fc5a72fdb1a5f51816d55d05.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000022624499/82c81a06fc5a72fdb1a5f51816d55d05.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/552321321959313408/GruuHVs0_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/552321321959313408/GruuHVs0_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1489951178/1420935257",
+      "profile_link_color": "1B13F5",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 22,
+    "favorite_count": 7,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+  },
+  "retweet_count": 22,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "Oficialmorris",
+      "name": "El Candigato Morris ",
+      "id": 1489951178,
+      "id_str": "1489951178",
+      "indices": [3, 17]
+    }],
+    "urls": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}, {
+  "created_at": "Wed Jan 21 00:48:54 +0000 2015",
+  "id": 557701335026790400,
+  "id_str": "557701335026790401",
+  "text": "@rockbot @rvagg ya, it definitely has growth potential being so new, io.js has plenty of room but the ramp up is much bigger.",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 557701009590722560,
+  "in_reply_to_status_id_str": "557701009590722563",
+  "in_reply_to_user_id": 26330898,
+  "in_reply_to_user_id_str": "26330898",
+  "in_reply_to_screen_name": "rockbot",
+  "user": {
+    "id": 668423,
+    "id_str": "668423",
+    "name": "Mikeal Rogers",
+    "screen_name": "mikeal",
+    "location": "Oakland, CA, USA",
+    "profile_location": null,
+    "description": "JS Community Organizer.\n\nDirector of Evangelism at DigitalOcean.\n\nCreator/Curator of NodeConf & JSFest.",
+    "url": "http://t.co/7kRL5v0xZP",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "http://t.co/7kRL5v0xZP",
+          "expanded_url": "http://mikealrogers.com/",
+          "display_url": "mikealrogers.com",
+          "indices": [0, 22]
+        }]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 9085,
+    "friends_count": 308,
+    "listed_count": 684,
+    "created_at": "Fri Jan 19 22:47:30 +0000 2007",
+    "favourites_count": 955,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 30608,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/549609524038877184/01oMFk1H_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/549609524038877184/01oMFk1H_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/668423/1419820652",
+    "profile_link_color": "3B94D9",
+    "profile_sidebar_border_color": "87BC44",
+    "profile_sidebar_fill_color": "E0FF92",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "rockbot",
+      "name": "Raquel Vélez",
+      "id": 26330898,
+      "id_str": "26330898",
+      "indices": [0, 8]
+    }, {
+      "screen_name": "rvagg",
+      "name": "Rod Vagg.js",
+      "id": 158704969,
+      "id_str": "158704969",
+      "indices": [9, 15]
+    }],
+    "urls": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}, {
+  "created_at": "Wed Jan 21 00:48:39 +0000 2015",
+  "id": 557701272095424500,
+  "id_str": "557701272095424514",
+  "text": "Thank you. https://t.co/k0dH4zf9aw http://t.co/w7usXjO9kt",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 4519121,
+    "id_str": "4519121",
+    "name": "Matthew Inman",
+    "screen_name": "Oatmeal",
+    "location": "Seattle, Washington",
+    "profile_location": null,
+    "description": "I make comics.",
+    "url": "http://t.co/hzHuiYcL4x",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "http://t.co/hzHuiYcL4x",
+          "expanded_url": "http://theoatmeal.com",
+          "display_url": "theoatmeal.com",
+          "indices": [0, 22]
+        }]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 468866,
+    "friends_count": 396,
+    "listed_count": 16467,
+    "created_at": "Fri Apr 13 16:59:37 +0000 2007",
+    "favourites_count": 632,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 5403,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FF3366",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/57771255/twitter2.png",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/57771255/twitter2.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/479769268104359937/VvbTc1T6_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/479769268104359937/VvbTc1T6_normal.png",
+    "profile_link_color": "B40B43",
+    "profile_sidebar_border_color": "CC3366",
+    "profile_sidebar_fill_color": "F5EDF0",
+    "profile_text_color": "362720",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 215,
+  "favorite_count": 268,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [{
+      "url": "https://t.co/k0dH4zf9aw",
+      "expanded_url": "https://www.kickstarter.com/projects/elanlee/exploding-kittens",
+      "display_url": "kickstarter.com/projects/elanl…",
+      "indices": [11, 34]
+    }],
+    "media": [{
+      "id": 557701271243989000,
+      "id_str": "557701271243988992",
+      "indices": [35, 57],
+      "media_url": "http://pbs.twimg.com/media/B71aWfNIIAAtyRR.png",
+      "media_url_https": "https://pbs.twimg.com/media/B71aWfNIIAAtyRR.png",
+      "url": "http://t.co/w7usXjO9kt",
+      "display_url": "pic.twitter.com/w7usXjO9kt",
+      "expanded_url": "http://twitter.com/Oatmeal/status/557701272095424514/photo/1",
+      "type": "photo",
+      "sizes": {
+        "medium": {
+          "w": 600,
+          "h": 768,
+          "resize": "fit"
+        },
+        "thumb": {
+          "w": 150,
+          "h": 150,
+          "resize": "crop"
+        },
+        "large": {
+          "w": 817,
+          "h": 1047,
+          "resize": "fit"
+        },
+        "small": {
+          "w": 340,
+          "h": 435,
+          "resize": "fit"
+        }
+      }
+    }]
+  },
+  "extended_entities": {
+    "media": [{
+      "id": 557701271243989000,
+      "id_str": "557701271243988992",
+      "indices": [35, 57],
+      "media_url": "http://pbs.twimg.com/media/B71aWfNIIAAtyRR.png",
+      "media_url_https": "https://pbs.twimg.com/media/B71aWfNIIAAtyRR.png",
+      "url": "http://t.co/w7usXjO9kt",
+      "display_url": "pic.twitter.com/w7usXjO9kt",
+      "expanded_url": "http://twitter.com/Oatmeal/status/557701272095424514/photo/1",
+      "type": "photo",
+      "sizes": {
+        "medium": {
+          "w": 600,
+          "h": 768,
+          "resize": "fit"
+        },
+        "thumb": {
+          "w": 150,
+          "h": 150,
+          "resize": "crop"
+        },
+        "large": {
+          "w": 817,
+          "h": 1047,
+          "resize": "fit"
+        },
+        "small": {
+          "w": 340,
+          "h": 435,
+          "resize": "fit"
+        }
+      }
+    }]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}, {
+  "created_at": "Wed Jan 21 00:47:36 +0000 2015",
+  "id": 557701009590722560,
+  "id_str": "557701009590722563",
+  "text": "@mikeal @rvagg I also chose it specifically because there are currently 6 people in a group slated to be 6-12 people. Ergo: opportunity!",
+  "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 557696997176926200,
+  "in_reply_to_status_id_str": "557696997176926210",
+  "in_reply_to_user_id": 668423,
+  "in_reply_to_user_id_str": "668423",
+  "in_reply_to_screen_name": "mikeal",
+  "user": {
+    "id": 26330898,
+    "id_str": "26330898",
+    "name": "Raquel Vélez",
+    "screen_name": "rockbot",
+    "location": "Bay Area, CA",
+    "profile_location": null,
+    "description": "Building a Better Internet™",
+    "url": "http://t.co/oqkVcYlwPm",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "http://t.co/oqkVcYlwPm",
+          "expanded_url": "http://rckbt.me",
+          "display_url": "rckbt.me",
+          "indices": [0, 22]
+        }]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 6038,
+    "friends_count": 316,
+    "listed_count": 362,
+    "created_at": "Tue Mar 24 21:38:23 +0000 2009",
+    "favourites_count": 5287,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 14109,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3003501029/95174deb90dd9450c1f7815e0d364ea0_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3003501029/95174deb90dd9450c1f7815e0d364ea0_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/26330898/1385156937",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "mikeal",
+      "name": "Mikeal Rogers",
+      "id": 668423,
+      "id_str": "668423",
+      "indices": [0, 7]
+    }, {
+      "screen_name": "rvagg",
+      "name": "Rod Vagg.js",
+      "id": 158704969,
+      "id_str": "158704969",
+      "indices": [8, 14]
+    }],
+    "urls": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}, {
+  "created_at": "Wed Jan 21 00:34:47 +0000 2015",
+  "id": 557697781583073300,
+  "id_str": "557697781583073281",
+  "text": "You never see US Citizens that hate to pay Taxes, long to live in places with lower rates, like HongKong, Pakistan, or Russia",
+  "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19725644,
+    "id_str": "19725644",
+    "name": "Neil deGrasse Tyson",
+    "screen_name": "neiltyson",
+    "location": "New York City",
+    "profile_location": null,
+    "description": "Astrophysicist.  Author: Space Chronicles & Inexplicable Universe [Video]; Host: @StarTalkRadio & @COSMOSonTV",
+    "url": "http://t.co/FRT5oYtwbX",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "http://t.co/FRT5oYtwbX",
+          "expanded_url": "http://www.haydenplanetarium.org/tyson/",
+          "display_url": "haydenplanetarium.org/tyson/",
+          "indices": [0, 22]
+        }]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 3029479,
+    "friends_count": 44,
+    "listed_count": 33536,
+    "created_at": "Thu Jan 29 18:40:26 +0000 2009",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": true,
+    "statuses_count": 4181,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": true,
+    "profile_background_color": "DBE9ED",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/67395299/eagle_kp09.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/67395299/eagle_kp09.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/74188698/NeilTysonOriginsA-Crop_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/74188698/NeilTysonOriginsA-Crop_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/19725644/1400087889",
+    "profile_link_color": "CC3366",
+    "profile_sidebar_border_color": "DBE9ED",
+    "profile_sidebar_fill_color": "E6F6F9",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2179,
+  "favorite_count": 3090,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}, {
+  "created_at": "Wed Jan 21 00:33:44 +0000 2015",
+  "id": 557697517476151300,
+  "id_str": "557697517476151299",
+  "text": "RT @samsteinhp: “A deportable” —&gt; https://t.co/726doO7GSB",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 8145852,
+    "id_str": "8145852",
+    "name": "Ben Clinkinbeard",
+    "screen_name": "bclinkinbeard",
+    "location": "41075",
+    "profile_location": null,
+    "description": "Adult human.",
+    "url": "http://t.co/1DlxpfguPB",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "http://t.co/1DlxpfguPB",
+          "expanded_url": "http://benclinkinbeard.com",
+          "display_url": "benclinkinbeard.com",
+          "indices": [0, 22]
+        }]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 936,
+    "friends_count": 236,
+    "listed_count": 77,
+    "created_at": "Sun Aug 12 20:55:06 +0000 2007",
+    "favourites_count": 1194,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 13451,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1775428502/headShot_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1775428502/headShot_normal.jpg",
+    "profile_link_color": "088253",
+    "profile_sidebar_border_color": "D3D2CF",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "634047",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Jan 20 23:18:27 +0000 2015",
+    "id": 557678571616210940,
+    "id_str": "557678571616210944",
+    "text": "“A deportable” —&gt; https://t.co/726doO7GSB",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 15463671,
+      "id_str": "15463671",
+      "name": "Sam Stein",
+      "screen_name": "samsteinhp",
+      "location": "Washington, D.C.",
+      "profile_location": null,
+      "description": "Political Editor and White House Correspondent -- Huffington Post --\r\nRT\"s aren\"t endorsements... but you know that by now.",
+      "url": "http://t.co/j82J5A4lDr",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http://t.co/j82J5A4lDr",
+            "expanded_url": "http://www.huffingtonpost.com/sam-stein/",
+            "display_url": "huffingtonpost.com/sam-stein/",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 142185,
+      "friends_count": 833,
+      "listed_count": 3663,
+      "created_at": "Thu Jul 17 03:38:29 +0000 2008",
+      "favourites_count": 4,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 31780,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/473642619386351616/v1ZKZguY.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/473642619386351616/v1ZKZguY.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/418552503756918784/aw0MMxZ9_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/418552503756918784/aw0MMxZ9_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15463671/1401760223",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 46,
+    "favorite_count": 19,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [{
+        "url": "https://t.co/726doO7GSB",
+        "expanded_url": "https://twitter.com/SteveKingIA/status/557673638066135045",
+        "display_url": "twitter.com/SteveKingIA/st…",
+        "indices": [21, 44]
+      }]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+  },
+  "retweet_count": 46,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "samsteinhp",
+      "name": "Sam Stein",
+      "id": 15463671,
+      "id_str": "15463671",
+      "indices": [3, 14]
+    }],
+    "urls": [{
+      "url": "https://t.co/726doO7GSB",
+      "expanded_url": "https://twitter.com/SteveKingIA/status/557673638066135045",
+      "display_url": "twitter.com/SteveKingIA/st…",
+      "indices": [37, 60]
+    }]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "es"
+}, {
+  "created_at": "Wed Jan 21 00:31:40 +0000 2015",
+  "id": 557696997176926200,
+  "id_str": "557696997176926210",
+  "text": "@rockbot @rvagg it is adapted (mostly a global replace) from the new io.js core governance docs.",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 557692661822660600,
+  "in_reply_to_status_id_str": "557692661822660611",
+  "in_reply_to_user_id": 26330898,
+  "in_reply_to_user_id_str": "26330898",
+  "in_reply_to_screen_name": "rockbot",
+  "user": {
+    "id": 668423,
+    "id_str": "668423",
+    "name": "Mikeal Rogers",
+    "screen_name": "mikeal",
+    "location": "Oakland, CA, USA",
+    "profile_location": null,
+    "description": "JS Community Organizer.\n\nDirector of Evangelism at DigitalOcean.\n\nCreator/Curator of NodeConf & JSFest.",
+    "url": "http://t.co/7kRL5v0xZP",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "http://t.co/7kRL5v0xZP",
+          "expanded_url": "http://mikealrogers.com/",
+          "display_url": "mikealrogers.com",
+          "indices": [0, 22]
+        }]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 9085,
+    "friends_count": 308,
+    "listed_count": 684,
+    "created_at": "Fri Jan 19 22:47:30 +0000 2007",
+    "favourites_count": 955,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 30608,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/549609524038877184/01oMFk1H_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/549609524038877184/01oMFk1H_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/668423/1419820652",
+    "profile_link_color": "3B94D9",
+    "profile_sidebar_border_color": "87BC44",
+    "profile_sidebar_fill_color": "E0FF92",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "rockbot",
+      "name": "Raquel Vélez",
+      "id": 26330898,
+      "id_str": "26330898",
+      "indices": [0, 8]
+    }, {
+      "screen_name": "rvagg",
+      "name": "Rod Vagg.js",
+      "id": 158704969,
+      "id_str": "158704969",
+      "indices": [9, 15]
+    }],
+    "urls": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}, {
+  "created_at": "Wed Jan 21 00:20:03 +0000 2015",
+  "id": 557694073805742100,
+  "id_str": "557694073805742080",
+  "text": "El Mirrey (Gobernador) de Chiapas, Manuel Velasco, abofetea a su asistente  http://t.co/BVb2p573vR",
+  "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 12741082,
+    "id_str": "12741082",
+    "name": "Yesi Days",
+    "screen_name": "silvercorp",
+    "location": "Mexico",
+    "profile_location": null,
+    "description": "Programadora Web, amiga de los animales, amante del deporte y Padawan de la vida",
+    "url": "http://t.co/60JUaM5HFG",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "http://t.co/60JUaM5HFG",
+          "expanded_url": "http://silvercorp.com.mx",
+          "display_url": "silvercorp.com.mx",
+          "indices": [0, 22]
+        }]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 2784,
+    "friends_count": 2267,
+    "listed_count": 113,
+    "created_at": "Sun Jan 27 05:32:29 +0000 2008",
+    "favourites_count": 2074,
+    "utc_offset": -21600,
+    "time_zone": "Mexico City",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 43657,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "636363",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000157559928/fUo3Zxj9.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000157559928/fUo3Zxj9.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/534215512222617600/GTZgYoA8_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/534215512222617600/GTZgYoA8_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/12741082/1402264821",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [{
+      "url": "http://t.co/BVb2p573vR",
+      "expanded_url": "http://buff.ly/15uZd1w",
+      "display_url": "buff.ly/15uZd1w",
+      "indices": [76, 98]
+    }]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "es"
+}, {
+  "created_at": "Wed Jan 21 00:16:12 +0000 2015",
+  "id": 557693105139626000,
+  "id_str": "557693105139625986",
+  "text": "RT @gilesgoatboy: YNAB\"s info-marketing is interesting because it\"s almost as if the teaching\"s the real product and the software\"s just on…",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 8145852,
+    "id_str": "8145852",
+    "name": "Ben Clinkinbeard",
+    "screen_name": "bclinkinbeard",
+    "location": "41075",
+    "profile_location": null,
+    "description": "Adult human.",
+    "url": "http://t.co/1DlxpfguPB",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "http://t.co/1DlxpfguPB",
+          "expanded_url": "http://benclinkinbeard.com",
+          "display_url": "benclinkinbeard.com",
+          "indices": [0, 22]
+        }]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 936,
+    "friends_count": 236,
+    "listed_count": 77,
+    "created_at": "Sun Aug 12 20:55:06 +0000 2007",
+    "favourites_count": 1194,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 13451,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1775428502/headShot_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1775428502/headShot_normal.jpg",
+    "profile_link_color": "088253",
+    "profile_sidebar_border_color": "D3D2CF",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "634047",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Jan 16 00:55:27 +0000 2015",
+    "id": 555891044030480400,
+    "id_str": "555891044030480385",
+    "text": "YNAB\"s info-marketing is interesting because it\"s almost as if the teaching\"s the real product and the software\"s just one method in that",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1341781,
+      "id_str": "1341781",
+      "name": "giles",
+      "screen_name": "gilesgoatboy",
+      "location": "an american wilderness",
+      "profile_location": null,
+      "description": "a sturdy creature, fond of espresso and leisure",
+      "url": "http://t.co/CeaqpjxJve",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http://t.co/CeaqpjxJve",
+            "expanded_url": "http://gilesbowkett.blogspot.com",
+            "display_url": "gilesbowkett.blogspot.com",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3583,
+      "friends_count": 824,
+      "listed_count": 337,
+      "created_at": "Sat Mar 17 08:19:02 +0000 2007",
+      "favourites_count": 451,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 62097,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/549065653026447361/Jn9Hpano.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/549065653026447361/Jn9Hpano.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/555422154603253760/CRIATUK5_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/555422154603253760/CRIATUK5_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1341781/1421257885",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 7,
+    "favorite_count": 13,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "retweet_count": 7,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "gilesgoatboy",
+      "name": "giles",
+      "id": 1341781,
+      "id_str": "1341781",
+      "indices": [3, 16]
+    }],
+    "urls": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}, {
+  "created_at": "Wed Jan 21 00:13:47 +0000 2015",
+  "id": 557692497200414700,
+  "id_str": "557692497200414720",
+  "text": "RT @TheOnion: Biden Arrives Early To Set Up State Of The Union Fog Machine http://t.co/F2rrB5JXBf http://t.co/IiQbk7YaKd",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 8145852,
+    "id_str": "8145852",
+    "name": "Ben Clinkinbeard",
+    "screen_name": "bclinkinbeard",
+    "location": "41075",
+    "profile_location": null,
+    "description": "Adult human.",
+    "url": "http://t.co/1DlxpfguPB",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "http://t.co/1DlxpfguPB",
+          "expanded_url": "http://benclinkinbeard.com",
+          "display_url": "benclinkinbeard.com",
+          "indices": [0, 22]
+        }]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 936,
+    "friends_count": 236,
+    "listed_count": 77,
+    "created_at": "Sun Aug 12 20:55:06 +0000 2007",
+    "favourites_count": 1194,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 13451,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1775428502/headShot_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1775428502/headShot_normal.jpg",
+    "profile_link_color": "088253",
+    "profile_sidebar_border_color": "D3D2CF",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "634047",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Jan 20 20:55:05 +0000 2015",
+    "id": 557642493341483000,
+    "id_str": "557642493341483009",
+    "text": "Biden Arrives Early To Set Up State Of The Union Fog Machine http://t.co/F2rrB5JXBf http://t.co/IiQbk7YaKd",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14075928,
+      "id_str": "14075928",
+      "name": "The Onion",
+      "screen_name": "TheOnion",
+      "location": "",
+      "profile_location": null,
+      "description": "America\"s Finest News Source. Subscribe on YouTube: http://t.co/5h833w1KO1",
+      "url": "http://t.co/Abkc9I2inH",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http://t.co/Abkc9I2inH",
+            "expanded_url": "http://www.theonion.com",
+            "display_url": "theonion.com",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": [{
+            "url": "http://t.co/5h833w1KO1",
+            "expanded_url": "http://bitly.com/xzrBUA",
+            "display_url": "bitly.com/xzrBUA",
+            "indices": [52, 74]
+          }]
+        }
+      },
+      "protected": false,
+      "followers_count": 6825752,
+      "friends_count": 13,
+      "listed_count": 72680,
+      "created_at": "Tue Mar 04 02:48:37 +0000 2008",
+      "favourites_count": 1,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 33868,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/183829455/onion_twitter.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/183829455/onion_twitter.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3654358881/476bd54bd9c2bc0f9a38b4e097ce6af5_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3654358881/476bd54bd9c2bc0f9a38b4e097ce6af5_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14075928/1398268996",
+      "profile_link_color": "FF0000",
+      "profile_sidebar_border_color": "F2E195",
+      "profile_sidebar_fill_color": "FFF7CC",
+      "profile_text_color": "0C3E53",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 3481,
+    "favorite_count": 2656,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [{
+        "url": "http://t.co/F2rrB5JXBf",
+        "expanded_url": "http://onion.com/1DZljHp",
+        "display_url": "onion.com/1DZljHp",
+        "indices": [61, 83]
+      }],
+      "media": [{
+        "id": 557642492720730100,
+        "id_str": "557642492720730112",
+        "indices": [84, 106],
+        "media_url": "http://pbs.twimg.com/media/B70k5IJIUAAwkEH.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/B70k5IJIUAAwkEH.jpg",
+        "url": "http://t.co/IiQbk7YaKd",
+        "display_url": "pic.twitter.com/IiQbk7YaKd",
+        "expanded_url": "http://twitter.com/TheOnion/status/557642493341483009/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 600,
+            "h": 339,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 340,
+            "h": 192,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 580,
+            "resize": "fit"
+          }
+        }
+      }]
+    },
+    "extended_entities": {
+      "media": [{
+        "id": 557642492720730100,
+        "id_str": "557642492720730112",
+        "indices": [84, 106],
+        "media_url": "http://pbs.twimg.com/media/B70k5IJIUAAwkEH.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/B70k5IJIUAAwkEH.jpg",
+        "url": "http://t.co/IiQbk7YaKd",
+        "display_url": "pic.twitter.com/IiQbk7YaKd",
+        "expanded_url": "http://twitter.com/TheOnion/status/557642493341483009/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 600,
+            "h": 339,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 340,
+            "h": 192,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 580,
+            "resize": "fit"
+          }
+        }
+      }]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 3481,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "TheOnion",
+      "name": "The Onion",
+      "id": 14075928,
+      "id_str": "14075928",
+      "indices": [3, 12]
+    }],
+    "urls": [{
+      "url": "http://t.co/F2rrB5JXBf",
+      "expanded_url": "http://onion.com/1DZljHp",
+      "display_url": "onion.com/1DZljHp",
+      "indices": [75, 97]
+    }],
+    "media": [{
+      "id": 557642492720730100,
+      "id_str": "557642492720730112",
+      "indices": [98, 120],
+      "media_url": "http://pbs.twimg.com/media/B70k5IJIUAAwkEH.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/B70k5IJIUAAwkEH.jpg",
+      "url": "http://t.co/IiQbk7YaKd",
+      "display_url": "pic.twitter.com/IiQbk7YaKd",
+      "expanded_url": "http://twitter.com/TheOnion/status/557642493341483009/photo/1",
+      "type": "photo",
+      "sizes": {
+        "thumb": {
+          "w": 150,
+          "h": 150,
+          "resize": "crop"
+        },
+        "medium": {
+          "w": 600,
+          "h": 339,
+          "resize": "fit"
+        },
+        "small": {
+          "w": 340,
+          "h": 192,
+          "resize": "fit"
+        },
+        "large": {
+          "w": 1024,
+          "h": 580,
+          "resize": "fit"
+        }
+      },
+      "source_status_id": 557642493341483000,
+      "source_status_id_str": "557642493341483009",
+      "source_user_id": 14075928,
+      "source_user_id_str": "14075928"
+    }]
+  },
+  "extended_entities": {
+    "media": [{
+      "id": 557642492720730100,
+      "id_str": "557642492720730112",
+      "indices": [98, 120],
+      "media_url": "http://pbs.twimg.com/media/B70k5IJIUAAwkEH.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/B70k5IJIUAAwkEH.jpg",
+      "url": "http://t.co/IiQbk7YaKd",
+      "display_url": "pic.twitter.com/IiQbk7YaKd",
+      "expanded_url": "http://twitter.com/TheOnion/status/557642493341483009/photo/1",
+      "type": "photo",
+      "sizes": {
+        "thumb": {
+          "w": 150,
+          "h": 150,
+          "resize": "crop"
+        },
+        "medium": {
+          "w": 600,
+          "h": 339,
+          "resize": "fit"
+        },
+        "small": {
+          "w": 340,
+          "h": 192,
+          "resize": "fit"
+        },
+        "large": {
+          "w": 1024,
+          "h": 580,
+          "resize": "fit"
+        }
+      },
+      "source_status_id": 557642493341483000,
+      "source_status_id_str": "557642493341483009",
+      "source_user_id": 14075928,
+      "source_user_id_str": "14075928"
+    }]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}, {
+  "created_at": "Tue Jan 20 23:52:14 +0000 2015",
+  "id": 557687076238671900,
+  "id_str": "557687076238671872",
+  "text": "RT @codepo8: Stop the Lies: Facebook Will Soon Let You Flag Hoax News Stories http://t.co/yfLSmamDac",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14148308,
+    "id_str": "14148308",
+    "name": "Eric Elliott",
+    "screen_name": "_ericelliott",
+    "location": "San Francisco, CA",
+    "profile_location": null,
+    "description": "Compassionate entrepreneur on a mission to end homelessness. #jshomes\n\nJavascript, tech education, electronic music, photography, film, viral apps.",
+    "url": "http://t.co/CZHaIyCy3L",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "http://t.co/CZHaIyCy3L",
+          "expanded_url": "http://bit.ly/jshomes",
+          "display_url": "bit.ly/jshomes",
+          "indices": [0, 22]
+        }]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 4741,
+    "friends_count": 4675,
+    "listed_count": 272,
+    "created_at": "Fri Mar 14 18:06:53 +0000 2008",
+    "favourites_count": 7396,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 15075,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/464310668984725504/ym-M-SNv_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/464310668984725504/ym-M-SNv_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/14148308/1399535245",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Jan 20 23:29:00 +0000 2015",
+    "id": 557681225914388500,
+    "id_str": "557681225914388481",
+    "text": "Stop the Lies: Facebook Will Soon Let You Flag Hoax News Stories http://t.co/yfLSmamDac",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 13567,
+      "id_str": "13567",
+      "name": "Christian Heilmann ",
+      "screen_name": "codepo8",
+      "location": "London, UK",
+      "profile_location": null,
+      "description": "Developer Evangelist - all things open web, HTML5, writing and working together. #nofilter",
+      "url": "http://t.co/fQKlvTCkqN",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http://t.co/fQKlvTCkqN",
+            "expanded_url": "http://christianheilmann.com/2013/02/11/hello-it-is-me-on-twitter/",
+            "display_url": "christianheilmann.com/2013/02/11/hel…",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 41725,
+      "friends_count": 1310,
+      "listed_count": 3219,
+      "created_at": "Tue Nov 21 17:20:09 +0000 2006",
+      "favourites_count": 96,
+      "utc_offset": 0,
+      "time_zone": "London",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 92285,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "336699",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/64650857/twitterbackground.gif",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/64650857/twitterbackground.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1666904408/codepo8_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1666904408/codepo8_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/13567/1409269429",
+      "profile_link_color": "13456B",
+      "profile_sidebar_border_color": "86A4A6",
+      "profile_sidebar_fill_color": "B7CCBB",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "6b9fbf597adbeafd",
+      "url": "https://api.twitter.com/1.1/geo/id/6b9fbf597adbeafd.json",
+      "place_type": "city",
+      "name": "Malmö",
+      "full_name": "Malmö, Sweden",
+      "country_code": "SE",
+      "country": "Sverige",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [12.7178537, 55.4799811],
+            [13.1519338, 55.4799811],
+            [13.1519338, 55.6797338],
+            [12.7178537, 55.6797338]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "retweet_count": 4,
+    "favorite_count": 6,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [{
+        "url": "http://t.co/yfLSmamDac",
+        "expanded_url": "http://www.wired.com/2015/01/facebook-wants-stop-lies-letting-users-flag-news-hoaxes/",
+        "display_url": "wired.com/2015/01/facebo…",
+        "indices": [65, 87]
+      }]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 4,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "codepo8",
+      "name": "Christian Heilmann ",
+      "id": 13567,
+      "id_str": "13567",
+      "indices": [3, 11]
+    }],
+    "urls": [{
+      "url": "http://t.co/yfLSmamDac",
+      "expanded_url": "http://www.wired.com/2015/01/facebook-wants-stop-lies-letting-users-flag-news-hoaxes/",
+      "display_url": "wired.com/2015/01/facebo…",
+      "indices": [78, 100]
+    }]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}]

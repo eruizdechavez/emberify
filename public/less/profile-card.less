@@ -1,0 +1,67 @@
+.profile {
+  .side-bar-widget;
+
+  .profile-banner {
+    position: absolute;
+    width: @profile-banner-width - (@border-width * 2);
+    height: @profile-banner-height;
+    border-radius: @border-radius @border-radius 0 0;
+    border-bottom: @border-width solid @border-color;
+  }
+
+  .profile-picture {
+    position: relative;
+    width: @profile-picture-width;
+    height: @profile-picture-width;
+    margin: ((@profile-banner-height - @profile-picture-width) / 2) ((@profile-banner-width - @profile-picture-width) / 2);
+    border-radius: @border-radius;
+  }
+
+  .stat {
+    .fixed-inline-block;
+    width: (@side-bar-width / 3);
+    margin-top: -2px;
+    border-bottom: 1px solid @border-color;
+    padding: @padding;
+
+    &:nth-child(2) {
+      width: (@side-bar-width / 3) - (@border-width * 2);
+      border-left: @border-width solid @border-color;
+      border-right: @border-width solid @border-color;
+    }
+
+    i, b {
+      display: block;
+    }
+
+    i {
+      font-style: normal;
+      text-transform: uppercase;
+      font-size: .6rem;
+      color: @border-color;
+    }
+  }
+
+  footer {
+    padding: @padding 0;
+    background-color: @background-dark;
+    border-radius: 0 0 @border-radius @border-radius;
+    text-align: center;
+
+    .new-tweet {
+      width: @side-bar-width - (@border-width * 2) - (@padding * 2);
+      font-size: 12px;
+      padding: @padding / 2;
+
+      &.small {
+        height: @padding * 3;
+        text-align: top;
+      }
+
+      &.large {
+        height: @padding * 8;
+        text-align: top;
+      }
+    }
+  }
+}

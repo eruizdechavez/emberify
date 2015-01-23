@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Ember Demo</title>
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <script type="text/x-handlebars">
+    <nav class="navigation">
+      <ul>
+        <li>{{#link-to 'users'}}<i class="fa fa-home"></i> Home{{/link-to}}</li>
+        <li><a><i class="fa fa-at"></i> Connect</a></li>
+        <li><a><i class="fa fa-comment-o"></i> Discover</a></li>
+        <li><a><i class="fa fa-user"></i> Me</a></li>
+      </ul>
+      <ul class="right">
+        <li><a><i class="fa fa-search"></i> Search</a></li>
+        <li><a><i class="fa fa-envelope"></i> Messages</a></li>
+        <li><a><i class="fa fa-cog"></i> Settings</a></li>
+        <li><a><i class="fa fa-pencil-square-o"></i> Compose</a></li>
+      </ul>
+    </nav>
+    <main class="main-content">
+      {{outlet}}
+    </main>
+  </script>
+
+  <script type="text/x-handlebars" data-template-name="user">
+    {{#alert-box}} Click on <i class="fa fa-home"></i> Home to go back to user selector.{{/alert-box}}
+    <aside class="side-bar">
+      {{#profile-card user=model}}
+        <footer>
+          {{textarea class="new-tweet" placeholder="Compose new Tweet..." maxlength="140" classBinding=boxSize value=tweetText focus-in="growTweetBox" focus-out="shrinkTweetBox" insert-newline="postTweet"}}
+        </footer>
+      {{/profile-card}}
+
+      <section class="trends">
+        <header>
+          <h1>Trends</h1>
+        </header>
+        <ul>
+          <li><a>#Foo</a></li>
+          <li><a>#BAR</a></li>
+          <li><a>#baz</a></li>
+          <li><a>#FizzBuzz</a></li>
+        </ul>
+      </section>
+
+      <section class="links">
+        <h1>Links</h1>
+      </section>
+    </aside>
+
+    <section class="tweets">
+      <h1>Tweets</h1>
+      {{#each item in model.tweets}}
+        {{#tweet-card tweet=item}}{{/tweet-card}}
+      {{/each}}
+    </section>
+  </script>
+
+  <script type="text/x-handlebars" data-template-name="users">
+    {{#alert-box}} Click on profile cards to navigate into them.{{/alert-box}}
+    <div class="user-selector">
+      {{#each user in model}}
+      {{#link-to 'user' user.screen_name}}
+        {{#profile-card user=user}}{{/profile-card}}
+      {{/link-to}}
+      {{/each}}
+    </div>
+  </script>
+
+  <script type="text/x-handlebars" data-template-name="components/alert-box">
+    <p class="demo-info"><i class="fa fa-info-circle"></i>{{yield}}</p>
+  </script>
+
+  <script type="text/x-handlebars" data-template-name="components/profile-card">
+      <section class="profile">
+        <header>
+          <img class="profile-banner" {{bind-attr src=user.profile_banner_url}} alt="Profile Banner">
+          <img class="profile-picture" {{bind-attr src=user.profile_image_url_https}} alt="Profile Picture">
+        </header>
+        <div class="stats">
+          <div class="stat">
+            <i>Tweets</i>
+            <b>{{user.statuses_count}}</b>
+          </div>
+          <div class="stat">
+            <i>Following</i>
+            <b>{{user.friends_count}}</b>
+          </div>
+          <div class="stat">
+            <i>Followers</i>
+            <b>{{user.followers_count}}</b>
+          </div>
+        </div>
+        {{yield}}
+      </section>
+  </script>
+
+  <script type="text/x-handlebars" data-template-name="components/tweet-card">
+    <article class="tweet">
+      <aside class="profile-picture">
+        <img {{bind-attr src=tweet.user.profile_image_url_https}} alt="">
+      </aside>
+      <aside class="time-stamp">
+        <i></i>
+      </aside>
+      <header>
+        <b>{{tweet.user.name}}</b>
+        <i>@{{tweet.user.screen_name}}</i>
+      </header>
+      <div class="body">
+        <p>{{tweet.text}}</p>
+      </div>
+      <footer>
+        <button><i class="fa fa-reply"></i></button>
+        <button><i class="fa fa-retweet"></i></button>
+        <button><i class="fa fa-star-o"></i></button>
+        <button><i class="fa fa-ellipsis-h"></i></button>
+      </footer>
+    </article>
+  </script>
+
+  <script src="js/libs.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
