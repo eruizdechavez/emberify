@@ -4,7 +4,7 @@ module.exports = function (grunt) {
   grunt.initConfig({
     meta: {
       public: 'public',
-      data: 'data',
+      config: 'config',
       dist: 'dist',
       bower: '<%= meta.public %>/bower_components',
       less: '<%= meta.public %>/less',
@@ -48,7 +48,7 @@ module.exports = function (grunt) {
     copy: {
       dist: {
         expand: true,
-        src: ['app.js', 'package.json', '<%= meta.public %>/index.html', '<%= meta.data %>/**/*', '<%= meta.css %>/**/*', '<%= meta.js %>/libs.js', '<%= meta.js %>/main.js'],
+        src: ['app.js', 'users.js', 'package.json', '<%= meta.public %>/index.html', '<%= meta.config %>/**/*', '<%= meta.css %>/**/*', '<%= meta.js %>/libs.js', '<%= meta.js %>/main.js'],
         dest: '<%= meta.dist %>/'
       }
     },

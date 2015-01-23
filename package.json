@@ -15,7 +15,9 @@
   "dependencies": {
     "body-parser": "^1.10.1",
     "express": "^4.11.0",
-    "lodash": "^2.4.1"
+    "indecent": "^1.0.1",
+    "lodash": "^2.4.1",
+    "twitter-js-client": "0.0.5"
   },
   "devDependencies": {
     "browserify": "^8.1.1",

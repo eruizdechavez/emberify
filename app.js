@@ -4,11 +4,14 @@
 var express = require('express'),
   path = require('path'),
   bodyParser = require('body-parser'),
+  util = require('util'),
+  config = require('indecent'),
   app = express();
 
-// Data
-var users = require('./data/users.json'),
-  tweets = require('./data/tweets.json');
+console.log(util.inspect(config));
+
+var Twitter = require('twitter-js-client').Twitter,
+  twitter = new Twitter(config);
 
 // Config. app
 app.set('port', 3030);
@@ -20,25 +23,27 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 // Routes
 app.get('/users', function (req, res) {
-  res.send(users);
+  res.send(require('./users'));
 });
 
 app.get('/users/:screen_name', function (req, res) {
-  var user;
-
-  users.every(function (item) {
-    if (item.screen_name === req.params.screen_name) {
-      user = item;
-      return false;
-    }
-    return true;
+  twitter.getUser({
+    screen_name: req.params.screen_name
+  }, function (err) {
+    console.log('ERROR [%s]', util.inspect(err));
+  }, function (data) {
+    res.send(JSON.parse(data));
   });
-
-  res.send(user);
 });
 
 app.get('/users/:screen_name/tweets', function (req, res) {
-  res.send(tweets);
+  twitter.getUserTimeline({
+    screen_name: req.params.screen_name
+  }, function (err) {
+    console.log('ERROR [%s]', util.inspect(err));
+  }, function (data) {
+    res.send(JSON.parse(data));
+  });
 });
 
 // Start app
