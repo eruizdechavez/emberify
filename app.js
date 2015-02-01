@@ -8,13 +8,11 @@ var express = require('express'),
   config = require('indecent'),
   app = express();
 
-console.log(util.inspect(config));
-
 var Twitter = require('twitter-js-client').Twitter,
   twitter = new Twitter(config);
 
 // Config. app
-app.set('port', 3030);
+app.set('port', config.port);
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({
   extended: true
@@ -48,5 +46,5 @@ app.get('/users/:screen_name/tweets', function (req, res) {
 
 // Start app
 app.listen(app.get('port'), function () {
-  console.log('Express app is running');
+  console.log('Express app is running on port ' + config.port);
 });
